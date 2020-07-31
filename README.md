@@ -1,4 +1,4 @@
-### Hi there 👋
+Digital Scholarship Research Developer at Stanford's Center for Interdisciplinary Research (CIDR).
 
 <!--
 **simonwiles/simonwiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
