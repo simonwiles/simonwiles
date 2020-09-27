@@ -4,7 +4,6 @@
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonwiles&count_private=true&show_icons=true">
 </p>
-<br>
 <p align="right">
   <a href="https://github.com/simonwiles" style="float:left"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/simonwiles?label=follow&style=social"></a>
   <br>
