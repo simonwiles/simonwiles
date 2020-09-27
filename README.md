@@ -6,4 +6,8 @@
   <a href="https://github.com/simonwiles"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/simonwiles?label=follow&style=social"></a>
   <br>
   <img alt="Profile Views" src="https://gpvc.arturio.dev/simonwiles">
+  <br>
+  <a href="https://stackexchange.com/users/32039/simon">
+    <img src="https://stackexchange.com/users/flair/32039.png" width="208" height="58" alt="Stack Exchange">
+  </a>  
 </p>
