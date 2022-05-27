@@ -1,5 +1,4 @@
 * Digital Scholarship Research Developer at Stanford's Center for Interdisciplinary Research (CIDR)
-* PhD Candidate at the Ho Center for Buddhist Studies at Stanford
 
 <a href="https://github.com/simonwiles"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/simonwiles?label=follow&style=social"></a>
 <a href="https://github.com/simonwiles"><img alt="Profile Views" src="https://gpvc.arturio.dev/simonwiles"></a>
